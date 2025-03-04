@@ -3,7 +3,7 @@
 <div align="center" style="margin: 30px; font-family: 'Segoe UI', sans-serif;">
     <a href="">
         <img 
-            alt="PRINCE BOT" 
+            alt="RizwaN Ai BOT" 
             width="720"
             height="420" 
             src="https://qu.ax/UGCpR.jpg" 
@@ -17,7 +17,7 @@
         >
     </a>
 
-# ![PRINCE-MD](https://readme-typing-svg.demolab.com?font=Roboto&size=26&weight=600&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=✨+ASSALAMUALAIKUM!+WELCOME+TO+PRINCE-MD;🔥+ULTIMATE+WHATSAPP+BOT+WITH+300%2B+FEATURES;⚡+FASTEST+•+MOST+ADVANCED+•+USER+FRIENDLY)
+# ![RizwaN-MD](https://readme-typing-svg.demolab.com?font=Roboto&size=26&weight=600&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=✨+ASSALAMUALAIKUM!+WELCOME+TO+RizwaN-MD;🔥+ULTIMATE+WHATSAPP+BOT+WITH+300%2B+FEATURES;⚡+FASTEST+•+MOST+ADVANCED+•+USER+FRIENDLY)
 
 ---
 
@@ -49,7 +49,7 @@
 ---
 
 
-## 💎 **PRINCE MD FEATURES**
+## 💎 **RizwaN Ai BoT FEATURES**
 ```diff
 🔹📖 QURAN MENU  
 🔹📥 ALL DOWNLOADER CMDS  
@@ -87,7 +87,7 @@
 
 <div align="center">
   <img src="https://i.imgur.com/LyHic3i.gif" width="60%"/>
-  <h3 style="color: #7b68ee; font-family: 'Roboto';">⚡ POWERED BY DASTAGEER ⚡</h3>
+  <h3 style="color: #7b68ee; font-family: 'Roboto';">⚡ POWERED BY RizwaN Ai Bot ⚡</h3>
   <a href="https://github.com/DASTAGHIR/PRINCEMD/blob/main/LICENSE">
     <img src="https://img.shields.io/badge/LICENSE-GPL3.0-7B68EE?style=for-the-badge">
   </a>
