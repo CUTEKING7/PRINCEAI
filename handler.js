@@ -130,8 +130,8 @@ if (!('antiver' in chat)) chat.antiver = false
 if (!('anticmds' in chat)) chat.anticmds = false
 if (!('testf' in chat)) chat.testf = false		    
 if (!('antiPorn' in chat)) chat.antiPorn = true         
-if (!('antiLink2' in chat)) chat.antiLink2 = false
-if (!('antiTiktok' in chat)) chat.antiTiktok = false
+if (!('antiLink2' in chat)) chat.antiLink2 = true
+if (!('antiTiktok' in chat)) chat.antiTiktok = true
 if (!('antiYoutube' in chat)) chat.antiYoutube = false
 if (!('antiTelegram' in chat)) chat.antiTelegram = false
 if (!('antiFacebook' in chat)) chat.antiFacebook = false
@@ -165,15 +165,15 @@ if (!isNumber(chat.expired)) chat.expired = 0
 		    
 global.db.data.chats[m.chat] = {
 antiDelete: true,
-antdeletelinks: false, 
-antiSticker: false,
+antdeletelinks: true, 
+antiSticker: true,
 antiToxic: false,
 antiver: true,
 antiPorn: true,
 anticmds: false,
 antiLink2: false,
 testf: false,
-antiTiktok: false,
+antiTiktok: true,
 antiYoutube: false,
 antiTelegram: false,
 antiFacebook: false,
